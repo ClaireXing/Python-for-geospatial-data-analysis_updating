@@ -29,7 +29,7 @@ Supporting ArcGIS/QGIS and other software can realize most of the basic spatial 
 
    OGR是GDAL项目的分支，是对矢量数据提供支持。目前是在做矢量栅格化的时候用这个比较多，别的功能还没有用到（毕竟有了geopandas满足基本需求），之后碰到了会继续更新。
 
-   GDAL is a raster processing tools suitable for a variety of raster operations. But! It will overwrite your existing Python version (it comes with Python 3.6 now), so beeee careful!! Get in the habit of creating a new environment! (You know why I saying this. /(ㄒoㄒ)/)
+   GDAL is a raster processing tools suitable for a variety of raster operations. But! It will overwrite your existing Python version (it comes with Python 3.6 now), so beeee careful!! Get in the habit of creating a new environment! (You know why I say this. /(ㄒoㄒ)/)
 
    OGR, a branch of the GDAL project, supports vector data. It is currently used mostly for vector rasterization, and I have not yet try more other functions (geopandas, after all, satisfies basic requirements). I will updated this part as soon as I found more interesting functions.
 
