@@ -5,7 +5,7 @@ Python for geospatial data analysis
 
 地学空间分析对应一套融合几何关系和地理特征在内的数据处理方法。与常见的图像/矢量图形不同，地理数据带有投影坐标、几何特征索引、配套属性信息（矢量文件中对应dbf文件保存的属性链接表格，栅格文件对应多波段影像），因此，处理方法与传统数据不同。
 
-配套ArcGIS/QGIS等软件可以实现一大部分基本的空间数据处理与分析功能，但当我们需要处理大量数据时，例如大尺度研究（多城市、全国、全球），用软件设置参数、可视化、批处理等难以一键完成，要调整或者重复的操作很多（我前阵子就是这样，挺费时间）。因此必须上coding啊。这个repository整理并分享用比较多的python空间数据处理和分析方法库，以供参考。
+配套ArcGIS/QGIS等软件可以实现一大部分基本的空间数据处理与分析功能，但当我们需要处理大量数据时，例如大尺度研究（多城市、全国、全球），用软件设置参数、可视化、批处理等难以一键完成，要调整或者重复的操作很多（我前阵子就是这样，挺费时间）。这个repository整理并分享用比较多的python空间数据处理和分析方法库，以供参考。
 
 Geospatial analysis corresponds to a set of data processing methods that integrate geometric relations and geographic information. Different from common image/vector graphics, geographic data has its own projection systems, geometric features, and joint attribute information (for vector files, it's the attribute link table saved in the 'dbf' file; for raster files, it's multiple bands of images). Therefore, the processing method is not the same as traditional data. 
 
